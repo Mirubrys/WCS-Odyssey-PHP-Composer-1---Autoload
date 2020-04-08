@@ -1,0 +1,14 @@
+{
+    "name": "micka/quete_composer",
+    "description": "Quête Odyssey",
+    "authors": [
+        {
+            "name": "Mirubrys",
+            "email": "mic.mendesdos@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
